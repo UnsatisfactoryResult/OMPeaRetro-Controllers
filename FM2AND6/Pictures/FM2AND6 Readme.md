@@ -18,7 +18,7 @@ Samurai Spirits (4 buttons) (Requires 4MB RAM and 486 CPU, not playable on Marty
 Fatal Fury (4 buttons) (Extremely rare and undumped as of right now, but word is that a dump is coming)
 Super Street Fighter II (6 buttons) (Requires 4MB RAM, playable on Marty with RAM expansion and turning "Raster" off in menu)
 
----
+------------------------------------
 What about other 6 button platforms?
 
 The X68000 is the only other platform with some official games that make use of more than 2 buttons, but they did not release their own controller for this. Instead they relied on the game creators to release their own solutions. Magical Company released their own controller for use with Fatal Fury 2 and Special, and Capcom released an adapter to make use of the 6 button Genesis or SNES controllers. Chelnov also came with a small adapter for use with 3 button Genesis controllers. Because of this, the FM2AND6 can map more buttons than a 2 button controller, but it is not able to fully support this software.
