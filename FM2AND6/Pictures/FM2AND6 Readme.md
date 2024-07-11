@@ -1,4 +1,4 @@
-**What is it, and what's it do?**
+### **What is it, and what's it do?**
 
 The FM2AND6 is a custom controller built into a Saturn style shell designed for the Fujitsu FM Towns series of computers and Marty consoles. While it is specifically designed for FM Towns, 2 Button Mode is compatible with the following Japanese PC platforms as well:
 
@@ -19,7 +19,7 @@ Fatal Fury (4 buttons) (Extremely rare and undumped as of right now, but word is
 Super Street Fighter II (6 buttons) (Requires 4MB RAM, playable on Marty with RAM expansion and turning "Raster" off in menu)
 
 ------------------------------------
-**What about other 6 button platforms?**
+### **What about other 6 button platforms?**
 
 The X68000 is the only other platform with some official games that make use of more than 2 buttons, but they did not release their own controller for this. Instead they relied on the game creators to release their own solutions. Magical Company released their own controller for use with Fatal Fury 2 and Special, and Capcom released an adapter to make use of the 6 button Genesis or SNES controllers. Chelnov also came with a small adapter for use with 3 button Genesis controllers. Because of this, the FM2AND6 can map more buttons than a 2 button controller, but it is not able to fully support this software.
 
