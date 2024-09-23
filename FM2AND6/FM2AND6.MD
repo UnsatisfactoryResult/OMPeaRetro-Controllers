@@ -2,7 +2,7 @@
 
 The FM2AND6 is a custom controller built into a Saturn style shell designed for the Fujitsu FM Towns series of computers and Marty consoles. While it is specifically designed for FM Towns, 2 Button Mode is compatible with the following Japanese PC platforms as well:
 
-**CONFIRMED**
+##CONFIRMED
 NEC PC6000 Series
 NEC PC88 Series (through 9 pin mouse port)
 NEC PC98 Series (through 9 pin mouse port, may require adapter, or soundcard with joystick ports)
