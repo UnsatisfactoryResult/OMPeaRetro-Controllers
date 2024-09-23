@@ -43,7 +43,13 @@ There are other platforms it may work on as well. If an FM Towns controller work
 ------------------------------------
 ## **What about other 6 button platforms?**
 
-The X68000 is the only other platform with some official games that make use of more than 2 buttons, but they did not release their own controller for this. Instead they relied on the game creators to release their own solutions. Magical Company released their own controller for use with Fatal Fury 2 and Special, and Capcom released an adapter to make use of the 6 button Genesis or SNES controllers. Chelnov also came with a small adapter for use with 3 button Genesis controllers. Because of this, the FM2AND6 can map more buttons than a 2 button controller, but it is not able to fully support this software.
+The X68000 is the only other platform with some official games that make use of more than 2 buttons, but they did not release their own controller for this. Instead they relied on the game creators to release their own solutions.
+
+* Magical Company released their own controller for use with Fatal Fury 2 and Special
+* Capcom released an adapter to make use of the 6 button Genesis controller for their 2 Street Fighter II releases
+* Chelnov came with a small adapter for use with the 3 button Genesis controller.
+
+These three groups all used different protocols for their games so there isn't a simple one controller solution I personally can make. I do have a working prototype that combines the FM Towns 6 button and the Capcom adapter/6 button Genesis protocols into one controller. The Fatal Fury games are supposed to recognize a 6 button Genesis controller with a Chelnov style adapter, but it won't recognize my Retro-Bit licensed controller, so I will test with an original eventually.
 
 ----------------------------------
 ## **Why use a Saturn style controller?**
@@ -53,22 +59,20 @@ It's awesome! I was a Sega kid growing up, and the Japanese Saturn controller is
 ---------------------------------------------------------
 ## **How are the buttons laid out, and what's this Derek Mode?**
 
-There's a graphic in the pictures folder showing an overview of the modes. The center 2/6 Mode button is a latching pushbutton switch. In the up position 2 Button Mode is active, in the down position 6 Button Mode is active. Some games do not work properly with a 6 button controller, hence the need to be able to swap back and forth.
+There's a graphic in the pictures folder showing an overview of the modes. The center 2/6 Mode button is a latching pushbutton switch. In the extended position 2 Button Mode is active, in the depressed position 6 Button Mode is active. Some FM Towns games do not work properly with a 6 button controller, hence the need to be able to swap back and forth.
 
 If you look at the layout graphic closely, you'll notice Derek Mode. This only affects 2 Button Mode, and it keeps the A Button on the left and the B Button on the right. The controller ships in Standard Mode. If you would prefer Derek Mode then you'll need to open the controller and press down the hidden pushbutton switch.
 
 ---------------------------------
 ## **Who manufactures them, and where?**
 
-The PCBs and SMD assembly takes place overseas. I only select major brands such as Texas Instruments, Panasonic, Samsung, Rohm, etc. A 2U thick ENIG (gold) finish is used on the exposed copper for maximum corrosion resistance. 
-
-Once I have all the parts on hand in the US, I solder on the cables, switches, and trigger button PCBs. Everything then gets cleaned of flux and any debris.
-
-At this point we enter the testing and assembly phase. I partially assemble it so that I can test that Derek Mode functions properly. Everything gets fully assembled and tested in Standard Mode. If all is well, I apply the logos, and put it in its box.
-
-There are a few modifications I make to the cases themselves prior to assembly at some point in the process. The testing is also to ensure these modifications are within my spec, and will be adjusted if needed.
-
-I test one more time before I ship out for a triple sanity check.
+* The PCBs and SMD assembly takes place overseas. I only select major brands for components such as Texas Instruments, Panasonic, Samsung, Rohm, etc. A 2U thick ENIG (gold) finish is used on the exposed copper for maximum corrosion resistance. 
+* The cases, cables, and switches are all off the shelf items I purchase from overseas.
+* The logos I design and have them printed in the US.
+* Once I have all the parts on hand in the US, I solder on the cables, switches, and trigger button PCBs. Everything then gets cleaned of flux and any debris.
+* At this point we enter the testing and assembly phase. I partially assemble it so that I can test that Derek Mode functions properly. Everything gets fully assembled and tested in Standard Mode. If all is well, I apply the logos, and put it in its box.
+* There are a few modifications I make to the cases themselves prior to assembly at some point in the process. The testing is also to ensure these modifications are within my spec, and will be adjusted if needed.
+* I test one more time before I ship out for a triple sanity check.
 
 ----------------------------------------------------------------------------------
 ## **Will it work on some really obscure platform that nobody has heard of in 40 years?**
