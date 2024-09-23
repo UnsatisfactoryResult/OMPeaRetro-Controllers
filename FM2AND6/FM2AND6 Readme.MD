@@ -11,10 +11,10 @@ The FM2AND6 is a custom controller built into a Saturn style shell designed for 
 * Sharp X68000 Series
 
 **CONFIRMED BUT REQUIRE ADAPTER**
-* Sega SC3000/SG1000/Master System (available on OMPeaRetro.com)
-* Sharp X1 Series (available on OMPeaRetro.com)
-* Tomy Pyuuta/Tutor Series (small numbers may be available on OMPeaRetro.com in the future)
-* Toshiba Pasopia Series (requires JOYPAC2, XPAC2, or similar)
+* Sega SC3000/SG1000/Master System (adapter available on OMPeaRetro.com)
+* Sharp X1 Series (adapter available on OMPeaRetro.com)
+* Tomy ぴゅう太 (Pyuuta)/Tutor Series (small numbers of adapters may be available on OMPeaRetro.com in the future)
+* Toshiba Pasopia/Pasopia7/T100 Series (requires JOYPAC2, XPAC2, or similar)
 
 **UNCONFIRMED**
 * Hino CEFUCOM-21 (Sanyo PHC-25 compatible with built in joystick ports)
