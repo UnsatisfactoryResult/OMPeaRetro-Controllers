@@ -3,41 +3,43 @@
 The FM2AND6 is a custom controller built into a Saturn style shell designed for the Fujitsu FM Towns series of computers and Marty consoles. While it is specifically designed for FM Towns, 2 Button Mode is compatible with the following Japanese PC platforms as well:
 
 **CONFIRMED**
-* NEC PC6000 Series
-* NEC PC88 Series (through 9 pin mouse port)
-* NEC PC98 Series (through 9 pin mouse port, may require adapter, or soundcard with joystick ports)
+* Fujitsu FM-7/NEW7/77/77AV Series
 * MSX/MSX2/MSX2+/MSX Turbo R Series
-* Fujitsu FM-7 Series
+* NEC PC6000 Series
+* NEC PC88 Series (through 9 pin mouse port, may require soundcard with joystick ports depending on model)
+* NEC PC98 Series (through 9 pin mouse port, may require miniDIN adapter for mouse port, or soundcard with joystick ports depending on model)
 * Sharp X68000 Series
 
 **CONFIRMED BUT REQUIRE ADAPTER**
+* Sega SC3000/SG1000/Master System (available on OMPeaRetro.com)
 * Sharp X1 Series (available on OMPeaRetro.com)
 * Tomy Pyuuta/Tutor Series (small numbers may be available on OMPeaRetro.com in the future)
-* Sega SC3000/SG1000/Master System (available on OMPeaRetro.com)
 * Toshiba Pasopia Series (requires JOYPAC2, XPAC2, or similar)
 
 **UNCONFIRMED**
+* Hino CEFUCOM-21 (Sanyo PHC-25 compatible with built in joystick ports)
+* Hitachi MB-S1/10AV (the only model in the series with built in joystick ports)
 * National JR-200 (I own one, but need to repair and test)
+* Sharp MZ-800 (European only successor to the MZ-700, dipswitch 1 = off, may require Sharp X1 adapter)
 * Sharp MZ-2500 Series
 * Sony SMC-777 Series (I own one, but need to repair and test)
-* Hitachi MB-S1/10AV (the only model in the series with built in joystick ports)
-* Hino CEFUCOM-21 (Sanyo PHC-25 compatible with built in joystick ports)
-* Sharp MZ-800 (European only successor to the MZ-700, dipswitch 1 = off, may require Sharp X1 adapter)
 
 **UNCOMFIRMED AND COMPLICATED**
 * Hitachi MB-S1 Series excluding the /10AV (require joystick interface card or MPC-PJ01 expansion)
+* Philips/Radiola/Schneider VG5000μ (released only in France, requires VG5200 or VG5216 expansions)
 * Sanyo PHC-25 (requires the PSG-01 expansion)
 * Seiko MAP-1010 (Sanyo PHC-25 compatible, requires the MAP-1030 expansion)
-* Philips/Radiola/Schneider VG5000μ (released only in France, requires VG5200 or VG5216 expansions)
 
 There are other platforms it may work on as well. If an FM Towns controller works on it then the FM2AND6 should work as well, and if an MSX controller works on it then the FM2AND6 might work on it. Systems marked **CONFIRMED** have been tested by myself or others. A big thanks to KTJDragon at KTJDragon.com for posting info about some of the more obscure systems on his site.
 
 6 Button Mode is specific to the FM Towns. A small handful of games make use of more than 2 buttons:
 
-* PuLiRuLa (3 buttons)
 * Blandia Plus (3 buttons)
-* Samurai Spirits (4 buttons) (Requires 4MB RAM and 486 CPU, not playable on Marty)
+* PuLiRuLa (3 buttons)
+
 * Fatal Fury (4 buttons) (Extremely rare and undumped as of right now, but word is that a dump is coming)
+* Samurai Spirits (4 buttons) (Requires 4MB RAM and 486 CPU, not playable on Marty)
+
 * Super Street Fighter II (6 buttons) (Requires 4MB RAM, playable on Marty with RAM expansion and turning "Raster" off in menu)
 
 ------------------------------------
@@ -45,9 +47,9 @@ There are other platforms it may work on as well. If an FM Towns controller work
 
 The X68000 is the only other platform with some official games that make use of more than 2 buttons, but they did not release their own controller for this. Instead they relied on the game creators to release their own solutions.
 
-* Magical Company released their own controller for use with Fatal Fury 2 and Special
 * Capcom released an adapter to make use of the 6 button Genesis controller for their 2 Street Fighter II releases
 * Chelnov came with a small adapter for use with the 3 button Genesis controller.
+* Magical Company released their own controller for use with Fatal Fury 2 and Special
 
 These three groups all used different protocols for their games so there isn't a simple one controller solution I personally can make. I do have a working prototype that combines the FM Towns 6 button and the Capcom adapter/6 button Genesis protocols into one controller. The Fatal Fury games are supposed to recognize a 6 button Genesis controller with a Chelnov style adapter, but it won't recognize my Retro-Bit licensed controller, so I will test with an original eventually.
 
