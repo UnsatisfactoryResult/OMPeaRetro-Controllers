@@ -2,13 +2,35 @@
 
 The FM2AND6 is a custom controller built into a Saturn style shell designed for the Fujitsu FM Towns series of computers and Marty consoles. While it is specifically designed for FM Towns, 2 Button Mode is compatible with the following Japanese PC platforms as well:
 
-NEC PC88
-NEC PC98
-MSX
-Fujitsu FM-7
-Sharp X68000
+**CONFIRMED**
+NEC PC6000 Series
+NEC PC88 Series (through 9 pin mouse port)
+NEC PC98 Series (through 9 pin mouse port, may require adapter, or soundcard with joystick ports)
+MSX/MSX2/MSX2+/MSX Turbo R Series
+Fujitsu FM-7 Series
+Sharp X68000 Series
 
-There are other platforms it may work on as well, but these particular series have been tested by myself and/or others. If an FM Towns controller works on it, then the FM2AND6 should work as well. A notable omission is the Sharp X1 series. I will be releasing an adapter to add compatibility at a later date.
+**CONFIRMED BUT REQUIRE ADAPTER**
+Sharp X1 Series (available on OMPeaRetro.com)
+Tomy Pyuuta/Tutor Series (small numbers may be available on OMPeaRetro.com in the future)
+Sega SC3000/SG1000/Master System (available on OMPeaRetro.com)
+Toshiba Pasopia Series (requires JOYPAC2, XPAC2, or similar)
+
+**UNCONFIRMED**
+National JR-200 (I own one, but need to repair and test)
+Sharp MZ-2500 Series
+Sony SMC-777 Series (I own one, but need to repair and test)
+Hitachi MB-S1/10AV (the only model in the series with built in joystick ports)
+Hino CEFUCOM-21 (Sanyo PHC-25 compatible with built in joystick ports)
+Sharp MZ-800 (European only successor to the MZ-700, dipswitch 1 = off, may require Sharp X1 adapter)
+
+**UNCOMFIRMED AND COMPLICATED**
+Hitachi MB-S1 Series excluding the /10AV (require joystick interface card or MPC-PJ01 expansion)
+Sanyo PHC-25 (requires the PSG-01 expansion)
+Seiko MAP-1010 (Sanyo PHC-25 compatible, requires the MAP-1030 expansion)
+Philips/Radiola/Schneider VG5000μ (released only in France, requires VG5200 or VG5216 expansions)
+
+There are other platforms it may work on as well. If an FM Towns controller works on it then the FM2AND6 should work as well, and if an MSX controller works on it then the FM2AND6 might work on it. Systems marked **CONFIRMED** have been tested by myself or others. A big thanks to KTJDragon at KTJDragon.com for posting info about some of the more obscure systems on his site.
 
 6 Button Mode is specific to the FM Towns. A small handful of games make use of more than 2 buttons:
 
