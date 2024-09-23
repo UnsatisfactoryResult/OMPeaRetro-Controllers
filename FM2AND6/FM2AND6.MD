@@ -66,9 +66,10 @@ If you look at the layout graphic closely, you'll notice Derek Mode. This only a
 ---------------------------------
 ## **Who manufactures them, and where?**
 
-* The PCBs and SMD assembly takes place overseas. I only select major brands for components such as Texas Instruments, Panasonic, Samsung, Rohm, etc. A 2U thick ENIG (gold) finish is used on the exposed copper for maximum corrosion resistance. 
-* The cases, cables, and switches are all off the shelf items I purchase from overseas.
-* The logos I design and have them printed in the US.
+* The PCBs and SMD assembly takes place overseas. I only select major brands for components; such as, Texas Instruments, Panasonic, Samsung, Rohm, etc. A 2U thick ENIG (gold) finish is used on the exposed copper for maximum corrosion resistance.
+* The 2/6 button mode switch cap is 3D printed overseas.
+* The controller cases, cables, and switches are all off the shelf items I purchase from overseas.
+* The logos I design and have printed locally.
 * Once I have all the parts on hand in the US, I solder on the cables, switches, and trigger button PCBs. Everything then gets cleaned of flux and any debris.
 * At this point we enter the testing and assembly phase. I partially assemble it so that I can test that Derek Mode functions properly. Everything gets fully assembled and tested in Standard Mode. If all is well, I apply the logos, and put it in its box.
 * There are a few modifications I make to the cases themselves prior to assembly at some point in the process. The testing is also to ensure these modifications are within my spec, and will be adjusted if needed.
@@ -77,9 +78,9 @@ If you look at the layout graphic closely, you'll notice Derek Mode. This only a
 ----------------------------------------------------------------------------------
 ## **Will it work on some really obscure platform that nobody has heard of in 40 years?**
 
-Possibly? Send me an email. There are some very unique controller setups out there on old Japanese PCs. The Sharp MZ-700 series and Sord M5 are pretty non-standard, for example. I do plan to add support where I can via plug in adapters, but this will take some time.
+Possibly? Send me an email. There are some very unique controller setups out there on old Japanese PCs. The Sharp MZ-700 series, Sord M5, and Bandai RX-78 are pretty non-standard, for example. I do plan to add support where I can via plug in adapters, but this will take some time.
 
-The Sharp X1 series and Sega SC3000/SG1000/SG1000 II/Master System are first on my list.
+I do have a few adapters available that expand the compatibility.
 
 --------------------------------------------------------------------
 ## **Will this work on Western computers like the TI 99/4A or Atari 2600?**
@@ -89,9 +90,4 @@ No. I could make adapters for it, but I plan to offer a different solution for W
 ----------------------------------
 ## **I don't need all of those buttons.**
 
-I have a different controller in the prototype stage aimed more at the 2 button crowd. This, or something similar, will also be made for the Western PC users.
-
--------------------------------------
-## **What about the X68000 6 button games?**
-
-I have an X68000, Street Fighter 2 Dash with the Capcom adapter, and Fatal Fury 2 with the controller on order so I can research a solution.
+I'm currently testing a prototype that also uses the Saturn shell, but has 2 buttons and up mapped to the ABC buttons. XYZ are actually autofire enable switches for the button under it, and the start button is an autofire frequency selector. 
