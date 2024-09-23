@@ -34,11 +34,11 @@ There are other platforms it may work on as well. If an FM Towns controller work
 
 6 Button Mode is specific to the FM Towns. A small handful of games make use of more than 2 buttons:
 
-PuLiRuLa (3 buttons)
-Blandia Plus (3 buttons)
-Samurai Spirits (4 buttons) (Requires 4MB RAM and 486 CPU, not playable on Marty)
-Fatal Fury (4 buttons) (Extremely rare and undumped as of right now, but word is that a dump is coming)
-Super Street Fighter II (6 buttons) (Requires 4MB RAM, playable on Marty with RAM expansion and turning "Raster" off in menu)
+* PuLiRuLa (3 buttons)
+* Blandia Plus (3 buttons)
+* Samurai Spirits (4 buttons) (Requires 4MB RAM and 486 CPU, not playable on Marty)
+* Fatal Fury (4 buttons) (Extremely rare and undumped as of right now, but word is that a dump is coming)
+* Super Street Fighter II (6 buttons) (Requires 4MB RAM, playable on Marty with RAM expansion and turning "Raster" off in menu)
 
 ------------------------------------
 ## **What about other 6 button platforms?**
