@@ -3,7 +3,7 @@
 The FM2AND6 is a custom controller built into a Saturn style shell designed for the Fujitsu FM Towns series of computers and Marty consoles. While it is specifically designed for FM Towns, 2 Button Mode is compatible with the following Japanese PC platforms as well:
 
 **CONFIRMED**
-* Fujitsu FM-7/NEW7/77/77AV Series
+* Fujitsu FM-77AV Series
 * MSX/MSX2/MSX2+/MSX Turbo R Series
 * NEC PC6000 Series
 * NEC PC88 Series (through 9 pin mouse port, may require soundcard with joystick ports depending on model)
@@ -11,6 +11,7 @@ The FM2AND6 is a custom controller built into a Saturn style shell designed for 
 * Sharp X68000 Series
 
 **CONFIRMED BUT REQUIRE ADAPTER**
+* Fujitsu FM-7/NEW7/77 Series (Requires FM Sound card or other adapter for joystick ports, late FM-77 models may have come with a built-in port)
 * Sega SG1000/Master System (adapter available on OMPeaRetro.com)
 * Sharp X1 Series (adapter available on OMPeaRetro.com)
 * Tomy ぴゅう太 (Pyuuta)/Tutor Series (small numbers of adapters may be available on OMPeaRetro.com in the future)
