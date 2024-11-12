@@ -2,6 +2,10 @@
 
 The FM2AND6 is a custom controller built into a Saturn style shell designed for the Fujitsu FM Towns series of computers and Marty consoles. While it is specifically designed for FM Towns, 2 Button Mode is compatible with the following Japanese PC platforms as well:
 
+**DO NOT WORK**
+* SEGA SC-3000 (There is no power present in the controller port, and even if you wire the port with 5v, the common is not a ground. You need to use a passive controller like the OMPeaRetro SGBASIC, or the FMTURBO2 with adapter and only in passive mode.)
+* Tomy ぴゅう太(Pyuta)/Tutor/ぴゅう太(Pyuta) Jr/ぴゅう太(Pyuta) MKII (There is no power present in the controller port, and even if you wire the port with 5v, the common is not a ground. You need to use a passive controller like the OMPeaRetro FMBASIC, or the FMTURBO2 with adapter and only in passive mode.)
+
 **CONFIRMED**
 * Fujitsu FM-77AV Series
 * MSX/MSX2/MSX2+/MSX Turbo R Series
@@ -14,7 +18,6 @@ The FM2AND6 is a custom controller built into a Saturn style shell designed for 
 * Fujitsu FM-7/NEW7/77 Series (Requires FM Sound card or other adapter for joystick ports, late FM-77 models may have come with a built-in port)
 * Sega SG1000/Master System (adapter available on OMPeaRetro.com)
 * Sharp X1 Series (adapter available on OMPeaRetro.com)
-* Tomy ぴゅう太 (Pyuuta)/Tutor Series (small numbers of adapters may be available on OMPeaRetro.com in the future)
 * Toshiba Pasopia/Pasopia7/T100 Series (requires JOYPAC2, XPAC2, or similar)
 
 **UNCONFIRMED**
