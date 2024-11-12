@@ -36,6 +36,9 @@ The FM2AND6 is a custom controller built into a Saturn style shell designed for 
 
 There are other platforms it may work on as well. If an FM Towns controller works on it then the FM2AND6 should work as well, and if an MSX controller works on it then the FM2AND6 might work on it. Systems marked **CONFIRMED** have been tested by myself or others. A big thanks to KTJDragon at KTJDragon.com for posting info about some of the more obscure systems on his site.
 
+------------------------------------------------------------------------------------------------------
+## **6 Button Mode**
+
 6 Button Mode is specific to the FM Towns. A small handful of games make use of more than 2 buttons:
 
 * Blandia Plus (3 buttons)
